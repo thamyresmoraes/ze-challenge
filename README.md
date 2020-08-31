@@ -1,7 +1,7 @@
 # Zé Delivery - QA Challenge
 
 Você pode ler esta documentação, em português,
-[clicando aqui](docs/LEIAME.md)
+[clicando aqui](/docs/LEAIME.md)
 
 **The first challenge is identity 3 important flows that keep the application working properly. I've identified these:**
 

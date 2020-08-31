@@ -10,7 +10,7 @@
 - **Carrinho:** Caso os produtos selecionados pelo usuário não estiverem sendo atualizados e calculados corretamente, trará grandes transtornos para o usuário que pode desistir da compra. 
 
 
-** O segundo desafio é criar uma automação com algum dos cenários do primeiro desafio**
+**O segundo desafio é criar uma automação com algum dos cenários do primeiro desafio**
 
 - Eu escolhi o do carrinho de compras!
 

@@ -93,3 +93,5 @@ pyenv activate ze-test
    `behave -t @previsao_do_tempo`
    
    `behave -t @consultar_cidade`
+
+***Check your API_KEY**

@@ -83,8 +83,9 @@ pyenv activate ze-test
 
     
  **API**
- `~/Ze-challenge/behave_api__test/features`
+ `~/ze-challenge/behave_api__test/features`
 
    `behave -t @previsao_do_tempo`
    
    `behave -t @consultar_cidade`
+

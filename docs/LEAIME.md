@@ -26,7 +26,7 @@ Sistema operacional utilizado:
 
 1. **Criar ambientes isolados com Pyenv**
 
-    Eu prefiro criar ambientes isolados, para não causar danos ao python local, então separei dois passo a passo para ajudar. Mas sista-se à vontade para fazer do seu jeito!
+    Eu prefiro criar ambientes isolados, para não causar danos ao python local, então separei dois passo a passo para ajudar. Mas sinta-se à vontade para fazer do seu jeito!
 
     [How To - virtualenv](https://gist.github.com/Geoyi/d9fab4f609e9f75941946be45000632b)
 
@@ -64,7 +64,7 @@ pyenv activate ze-test
 
 ***
 
-3. **Instale as depências**
+5. **Instale as depências**
 
 ```sh
  pip install -r requirements.txt

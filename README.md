@@ -69,7 +69,7 @@ pyenv activate ze-test
 
 ***
 
-3. **Install dependencies**
+5. **Install dependencies**
 
 ```sh
  pip install -r requirements.txt

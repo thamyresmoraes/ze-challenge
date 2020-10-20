@@ -22,9 +22,10 @@ class ProductPage(BasePage):
         self._generic_click_element(self.locator.add_product)
 
     def get_products_value(self):
-       self.value_product = self.selib.get_text(self.locator.product_value)
-       self.value_output = re.findall("\d*,\d*", self.value_product)
-       self.value_output_product = float(self.value_output[0].replace(',','.'))
+        self._generic_check_element_is_visible(self.locator.product_value)
+        self.value_product = self.selib.get_text(self.locator.product_value)
+        self.value_output = re.findall("\d*,\d*", self.value_product)
+        self.value_output_product = float(self.value_output[0].replace(',','.'))
 
     def get_value_amount(self):
         self.value_amount = int(self.selib.get_text(self.locator.product_amount))

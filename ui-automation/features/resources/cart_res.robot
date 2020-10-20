@@ -17,5 +17,5 @@ the user select amount of products
     Add Amount Product
     Add Products
     
-the purchase price must be updated in the car
+the purchase price must be updated in the cart
     Calculate Cart

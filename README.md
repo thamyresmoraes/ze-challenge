@@ -75,6 +75,10 @@ pyenv activate ze-test
  pip install -r requirements.txt
 ```
 
+```sh
+ python setup.py develop
+``` 
+
 # Run tests
 
 **UI**
